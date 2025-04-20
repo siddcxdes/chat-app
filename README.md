@@ -19,9 +19,4 @@ A real-time messaging application built with Node.js, Express, and Socket.io. Th
 - **Database**: MongoDB (or any DB you use)
 - **Development**: Nodemon for auto-reloading in development
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/chat-app.git
 
